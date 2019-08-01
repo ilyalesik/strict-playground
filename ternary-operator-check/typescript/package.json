@@ -1,0 +1,14 @@
+{
+  "name": "ternary-operator-check-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "typescript": "tsc -p tsconfig.json --noEmit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
