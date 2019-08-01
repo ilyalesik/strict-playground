@@ -1,3 +1,3 @@
-let f = () => true;
+let isTrue = () => Random.bool();
 
-let check = f ? 1 : 2;
+let result = isTrue ? 1 : 2;

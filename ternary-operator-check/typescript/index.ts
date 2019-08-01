@@ -1,4 +1,4 @@
 
-const f = () => () => true;
+const isTrue = () => Math.random() < 0.5;
 
-const check = f() ? true : false;
+const result = isTrue ? 1 : 2;
