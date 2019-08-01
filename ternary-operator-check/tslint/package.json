@@ -1,0 +1,15 @@
+{
+  "name": "ternary-operator-check-tslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tslint": "tslint -p . -c tslint.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  }
+}
