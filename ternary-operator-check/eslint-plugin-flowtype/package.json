@@ -1,0 +1,16 @@
+{
+  "name": "ternary-operator-check-eslint-plugin-flowtype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint 'index.js' --quiet"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.1.0",
+    "eslint-plugin-flowtype": "^3.12.2"
+  }
+}
